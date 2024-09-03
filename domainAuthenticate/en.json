@@ -1,0 +1,10 @@
+{
+  "createAccount" : "Need account? Create it here",
+  "domain" : "Domain",
+  "domainNotFound" : "Domain not found!",
+  "forgotPassword" : "Forgot your password? Reset it here",
+  "invalidCharactersError" : "Domain name must contain only alphabetic letters",
+  "loginPrompt" : "Please login to your domain After Edit",
+  "maxLengthError" : "Domain name must be 15 characters or less",
+  "welcome" : "Welcome Back"
+}

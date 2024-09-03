@@ -1,0 +1,14 @@
+{
+  "emailAlreadyExists" : "A customer with this domain already exists.",
+  "firstLettersOnly" : "First name can only contain letters",
+  "firstNameMaxCharacters" : "First name must not exceed 20 characters",
+  "firstNameMinCharacters" : "First name must be at least 3 characters long",
+  "formError" : "Please fill out all fields correctly before submitting.",
+  "invalidEmailAddress" : "Please enter a valid email address",
+  "invalidEmailDomain" : "Please use a valid email domain. Disposable email services are not allowed.",
+  "invalidPhoneNumber" : "Please enter a valid phone number",
+  "invalidPhoneNumberForCountry" : "Please enter a valid phone number for the selected country",
+  "lastNameLettersOnly" : "Last name can only contain letters",
+  "lastNameMaxCharacters" : "Last name must not exceed 20 characters",
+  "lastNameMinCharacters" : "Last name must be at least 3 characters long"
+}

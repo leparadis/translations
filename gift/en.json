@@ -1,0 +1,23 @@
+{
+  "addGift" : "Add Gift",
+  "codeAlphanumeric" : "Gift code can only contain uppercase letters and numbers",
+  "codeLength" : "Gift code must be exactly 6 characters long",
+  "codeRequired" : "Gift code is required",
+  "createNewGift" : "Create New Gift",
+  "descriptionRequired" : "Description is required",
+  "descriptionTooLong" : "Description cannot exceed 200 characters",
+  "fixedPrice" : "Fixed Price",
+  "gift" : "Gift",
+  "giftCode" : "Gift Code",
+  "giftCodeAlreadyExists" : "Gift code already exists In database!",
+  "giftCreated" : "Gift Successfully Created!",
+  "giftDescription" : "Gift Description",
+  "giftName" : "Gift Name",
+  "giftNameRequired" : "Gift name is required",
+  "giftNameTooLong" : "Gift name cannot exceed 100 characters",
+  "giftType" : "Gift Type",
+  "giftUsed" : "Is used?",
+  "invalidPrice" : "Please enter a valid price greater than 0",
+  "priceRequired" : "Price is required",
+  "selectGiftType" : "Select Gift Type"
+}
